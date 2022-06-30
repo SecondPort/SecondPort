@@ -1,6 +1,6 @@
 ### Hi, what's up 👋
 ``` 
-I am a Computer Engineering student at Blas Pascal University.
+I am a Computer Science Engineer student at Blas Pascal University.
 I try to learn from my superiors in order to improve my performance
 within the company and to be able to grow in it. 
 Skills for decision making and problem solving. 
