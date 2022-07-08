@@ -8,7 +8,7 @@ Passionate about the world of blockchain and NFTs.
 ```
 - 🌍  I'm based in Córdoba, Argentina
 - 🌱  I’m currently learning Solidity and React
-- 🤔  I'm looking for help with growth within the world of software development
+- 🤔  I'm looking to help with growth within the world of software development
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-manuel-moyano-gomez-9023b717a/), [Gmail](mailto:gomezmanulm@gmail.com)
 
 ![SecondPort's github stats](https://github-readme-stats.vercel.app/api?username=SecondPort&show_icons=true&theme=tokyonight)
