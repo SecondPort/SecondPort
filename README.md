@@ -28,3 +28,4 @@ Passionate about the world of blockchain and NFTs.
 </p>
 
 ![SecondPort's github stats](https://github-readme-stats.vercel.app/api?username=SecondPort&show_icons=true&theme=tokyonight)
+![SecondPort's github activity graph](https://github.com/SecondPort/SecondPort/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
