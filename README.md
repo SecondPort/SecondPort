@@ -26,5 +26,5 @@ Passionate about the world of blockchain and AIs.
 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
 </p>
 
-![SecondPort's github stats](https://github-readme-stats.vercel.app/api?username=SecondPort&show_icons=true&theme=tokyonight)
+
 ![SecondPort's github activity graph](https://github.com/SecondPort/SecondPort/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
