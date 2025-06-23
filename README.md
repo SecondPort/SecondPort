@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="cat-typing.gif" width="40">
+  <img src="cat-ng.gif" width="40">
   <span>Mate, código y memes: la Santa Trinidad del developer argentino 🇦🇷</span>
 </div>
 
