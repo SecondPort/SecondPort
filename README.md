@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="cat-typing.jpg" alt="gatito codeando" width="70">
+  <img src="cat-typing.gif" alt="gatito codeando" width="70">
   <h1>¡Bienvenid@ a mi perfil GitHub!</h1>
 </div>
 
 <div align="center">
-  <img src="cat-typing.jpg" width="40">
+  <img src="cat-typing.gif" width="40">
   <span>Mate, código y memes: la Santa Trinidad del developer argentino 🇦🇷</span>
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
   <span>🐾 Explorando nuevas pampas digitales</span><br>
-  <img src="cat.jpg" width="60">
+  <img src="cat.gif" width="60">
 </div>
 
 ---
