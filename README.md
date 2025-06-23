@@ -11,8 +11,8 @@
 ---
 
 <div align="center">
-  <img src="under-construction.gif">
   <span>⚠️ EN OBRA, COMO LA 9 DE JULIO ⚠️</span>
+  <img src="under-construction.gif">
 </div>
 
 ---
