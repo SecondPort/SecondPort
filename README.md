@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="cat-ng.gif" width="40">
-  <span>Mate, código y memes: la Santa Trinidad del developer argentino 🇦🇷</span>
+  <span>Mate, código y memes: la Santa Trinidad del developer argentino</span>
 </div>
 
 ---
