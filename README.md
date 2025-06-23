@@ -1,30 +1,60 @@
-### Hi, what's up 👋
-``` 
-I am a Computer Science Engineer student at Blas Pascal University.
-I try to learn from my superiors in order to improve my performance
-within the company and to be able to grow in it. 
-Skills for decision making and problem solving. 
-Passionate about the world of blockchain and AIs.
-```
-- 🌍  I'm based in Córdoba, Argentina
-- 🤔  I'm looking to help with growth within the world of software development
-- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-manuel-moyano-gomez-9023b717a/), [Gmail](mailto:gomezmanulm@gmail.com)
+<!-- Encabezado retro -->
+<h1 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" width="60" />
+  <span style="color:#00ffff; text-shadow: 2px 2px 0 #ff00ff, 4px 4px 0 #000;">WELCOME TO MY GITHUB PROFILE</span>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f984/512.gif" width="60" />
+</h1>
 
-### Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" alt="Gatito codeando" />
+  <span style="font-size:1.2em;">i love code</span>
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="80" alt="Unicornio" />
+  <span style="font-size:1.2em;">and unicorns</span>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://cdn.pixabay.com/photo/2014/04/02/10/47/warning-305768_1280.png" width="30"/>
+  <span style="background: yellow; color: black; font-weight: bold; padding: 5px 10px; border-radius: 5px;">UNDER CONSTRUCTION</span>
+  <img src="https://cdn.pixabay.com/photo/2014/04/02/10/47/warning-305768_1280.png" width="30"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Furby_2012.png" width="70" alt="Furby retro" />
+</div>
+
+---
+
+### 🚀 Últimos lanzamientos
+
+- Chequeá mi última app: [Supercharge](#) <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" alt="HOT"/>
+- Y mi [último post del blog](#) <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30" alt="HOT"/>
+
+---
+
+<div align="center">
+  <img src="https://www.cutercounter.com/hits.php?id=hrxpnxk&nd=6&style=1" alt="Hits counter" />
+  <img src="https://www.pngrepo.com/png/303231/512/netscape.png" width="40" alt="Netscape Now!" />
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="40" alt="HTML5" />
+  <img src="https://winworldpc.com/res/img/winzip.png" width="40" alt="WinZip" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_1992.svg" width="40" alt="Windows 95" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Adobe_Acrobat_Reader_DC_icon.svg" width="40" alt="Acrobat Reader" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Fuego animado" />
+</div>
+
+---
+
+<p align="center">
+  <b>¡Gracias por pasar! 🚀<br/>
+  Sígueme para más código, unicornios y nostalgia noventosa.</b>
 </p>
-
-
-![SecondPort's github activity graph](https://github.com/SecondPort/SecondPort/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
