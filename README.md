@@ -26,5 +26,5 @@
 ---
 
 <div align="center">
-  <span>Desarrollador cordobés, 24 años. Siempre sumando a la comunidad</span>
+  <span>Desarrollador cordobés, 25 años. Siempre sumando a la comunidad</span>
 </div>
