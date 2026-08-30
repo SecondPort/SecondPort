@@ -28,3 +28,17 @@
 <div align="center">
   <span>Desarrollador cordobés, 25 años. Siempre sumando a la comunidad</span>
 </div>
+
+---
+
+<div align="center">
+  <img src="cat-ng.gif" width="40">
+  <br>
+  <span>💜 ¿Te sirvió algo de lo que hago?</span>
+  <br><br>
+  <a href="https://github.com/sponsors/SecondPort">
+    <img src="https://img.shields.io/badge/Bancame%20un%20mate-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Ser sponsor de SecondPort en GitHub">
+  </a>
+  <br><br>
+  <span>Cada aporte es más tiempo para código abierto 🧉</span>
+</div>
